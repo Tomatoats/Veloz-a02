@@ -1,0 +1,6 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+class Solution06
+class Retirement_Calculator
+Solution06 <-- Retirement_Calculator
+@enduml

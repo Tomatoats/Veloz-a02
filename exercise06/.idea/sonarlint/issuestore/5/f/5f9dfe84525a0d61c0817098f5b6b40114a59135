@@ -1,0 +1,11 @@
+
+]
+java:S1854"BRemove this useless assignment to local variable "userRetirement".(”¦½µùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÆ·ãúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( å¡ÿÿÿÿÿ
+N
+java:S1481"3Remove this unused "userRetirement" local variable.(”¦½µùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ò×³
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»òÒ…ûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûµö”
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŞò±ûÿÿÿÿ

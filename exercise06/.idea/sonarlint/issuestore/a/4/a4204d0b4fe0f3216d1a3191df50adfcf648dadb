@@ -1,0 +1,15 @@
+
+k	java:S116"VRename this field "age_current" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âİ–ø
+j	java:S116"URename this field "age_retire" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¼èÔ
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÕÙê†üÿÿÿÿ8ˆÁá±¾/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÙê†üÿÿÿÿ
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(áì”ùÿÿÿÿ8“Èã±¾/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áì”ùÿÿÿÿ
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¬ıÅüÿÿÿÿ
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¬ıÅüÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶À˜
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Öø%
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÉ¸şıÿÿÿÿ
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×ß—Ùşÿÿÿÿ8Â¡İ±¾/
