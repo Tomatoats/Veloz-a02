@@ -1,0 +1,7 @@
+
+R
+java:S1854"<Remove this useless assignment to local variable "userarea".(ÿ˜Å©
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÓÁÁøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§•Ñ³
+C
+java:S1481"-Remove this unused "userarea" local variable.(ÿ˜Å©

@@ -1,0 +1,12 @@
+
+k	java:S116"QRename this field "p_itm1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á×ğÇıÿÿÿÿ
+f	java:S116"QRename this field "q_itm1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªî¿©
+k	java:S116"QRename this field "p_itm2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ë±üÿÿÿÿ
+f	java:S116"QRename this field "q_itm2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã€øá
+f	java:S116"QRename this field "p_itm3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¿ÿ¢
+k	java:S116	"QRename this field "q_itm3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÇÌÖüÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ŞãÏˆüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞãÏˆüÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç’Ò
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒºğ

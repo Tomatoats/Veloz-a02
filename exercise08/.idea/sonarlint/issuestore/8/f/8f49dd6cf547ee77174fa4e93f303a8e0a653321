@@ -1,0 +1,11 @@
+
+Y
+java:S1854!">Remove this useless assignment to local variable "userslices".(Õ†üñþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Áãàû
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Î‡ÎÁøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öòœ§üÿÿÿÿ
+J
+java:S1481!"/Remove this unused "userslices" local variable.(Õ†üñþÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªƒõÆ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜºÍ¬
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¹¯ƒ
