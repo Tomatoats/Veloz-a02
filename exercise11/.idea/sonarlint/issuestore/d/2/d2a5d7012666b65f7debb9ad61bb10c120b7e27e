@@ -1,0 +1,6 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶Û¼Íøÿÿÿÿ8ÌÏ´¿/
+Z
+java:S1854"=Remove this useless assignment to local variable "usermoney".(ÕçÚ8ç®Ò´¿/
+K
+java:S1481".Remove this unused "usermoney" local variable.(ÕçÚ8ê®Ò´¿/
