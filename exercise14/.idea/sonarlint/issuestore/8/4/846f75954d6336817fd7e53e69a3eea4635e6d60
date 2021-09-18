@@ -1,0 +1,12 @@
+
+g	java:S116"MRename this field "ST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÙÓ€ýÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ø¿Ë«ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¿Ë«ûÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ù˜®þúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù˜®þúÿÿÿÿ
+?
+java:S1068")Remove this unused "money" private field.(¿€«ó
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø£ÚÅüÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éØÀú

@@ -1,0 +1,9 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(¶Û¼Íøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶Û¼Íøÿÿÿÿ
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªŸÁ*
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïÐ†…ûÿÿÿÿ
+R
+java:S1854+"<Remove this useless assignment to local variable "usertemp".(Áê²€
+C
+java:S1481+"-Remove this unused "usertemp" local variable.(Áê²€

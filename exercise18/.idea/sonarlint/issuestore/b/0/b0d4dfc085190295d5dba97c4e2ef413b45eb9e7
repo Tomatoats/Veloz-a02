@@ -1,0 +1,10 @@
+
+k	java:S116"VRename this field "degree_unit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä˜ó¯
+t	java:S116"_Rename this field "not_converted_degree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÅø‹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øå½’ýÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×÷º˜ûÿÿÿÿ8ÊÐÂÙ¿/
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õšÄÞùÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦‘ãàøÿÿÿÿ
+[
+java:S2184"@Cast one of the operands of this integer division to a "double".(ƒÇÎÑýÿÿÿÿ

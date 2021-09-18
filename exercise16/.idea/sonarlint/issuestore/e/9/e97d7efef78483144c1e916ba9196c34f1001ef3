@@ -1,0 +1,6 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(¶Û¼Íøÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "userage".(Äö¥…úÿÿÿÿ
+G
+java:S1481",Remove this unused "userage" local variable.(Äö¥…úÿÿÿÿ

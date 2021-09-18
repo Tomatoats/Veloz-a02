@@ -1,0 +1,7 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(¶Û¼Íøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ï¬½Ó
+V
+java:S1854!";Remove this useless assignment to local variable "userBAC".(€Þ“®üÿÿÿÿ
+G
+java:S1481!",Remove this unused "userBAC" local variable.(€Þ“®üÿÿÿÿ
