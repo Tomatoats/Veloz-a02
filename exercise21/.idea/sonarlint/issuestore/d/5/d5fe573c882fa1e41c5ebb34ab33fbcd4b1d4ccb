@@ -1,0 +1,9 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(¶Û¼Íøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢¡‡¡ÿÿÿÿÿ
+S
+java:S1854$"=Remove this useless assignment to local variable "usermonth".( Ô¿â
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(×¨ƒ„
+D
+java:S1481$".Remove this unused "usermonth" local variable.( Ô¿â
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú§”ÿÿÿÿÿ

@@ -1,0 +1,11 @@
+
+j	java:S116"PRename this field "State" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¾ñàúÿÿÿÿ
+e	java:S116"QRename this field "County" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÓ¼w
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÚÒôøÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(€ªÚÊ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(€ªÚÊ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ø¹âÙ
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø£ÚÅüÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÀÄ²
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éØÀú
