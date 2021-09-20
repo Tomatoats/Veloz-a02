@@ -1,0 +1,8 @@
+
+l	java:S116"WRename this field "first_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž¨›¦
+m	java:S116	"XRename this field "second_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Èî®
+l	java:S116
+"WRename this field "third_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á½¡µ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ü¬Ïìûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(à½¸ü
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²õóÅûÿÿÿÿ

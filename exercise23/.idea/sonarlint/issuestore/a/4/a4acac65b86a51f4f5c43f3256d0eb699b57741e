@@ -1,0 +1,8 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(∂€ºÕ¯ˇˇˇˇ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(«µÌë
+S
+java:S1854b">Remove this useless assignment to local variable "useranswer".(Ì‘ÜQ
+D
+java:S1481b"/Remove this unused "useranswer" local variable.(Ì‘ÜQ
